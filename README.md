@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stas</h1>
 <h3 align="center">A passionate IOS-developer</h3>
 
+- 👀 I’m interested in iOS and macOS programming.
+- 🌱 I’m currently programming, using Swift.
+- 💞️ I’m looking to collaborate on any projects.
 - 👨‍💻 All of my projects are available at [https://github.com/Stanny-Starczewski/](https://github.com/Stanny-Starczewski/)
 
 - 📫 How to reach me **stanislav.starczewski@gmail.com**
